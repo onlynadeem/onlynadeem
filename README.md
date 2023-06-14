@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hack unicorn and hackTekers**
 
-- 💬 Ask me about **android , C++ ,java scrip ,HTML**
+- 💬 Ask me about **android , C++ , java scrip , HTML , CSS , TypeScript**
 
 - 📫 How to reach me **nadeem8890171845@gmail.com**
 
